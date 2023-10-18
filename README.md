@@ -10,8 +10,8 @@ All of my exercizes for a Coursera course on the basics of the Go programming la
 
 If the Go programming language is not installed follow the official [guide](https://go.dev/doc/install)
 
-Run `go build ./foldername/filename` where foldername is the course and filename is the exercize you want to run and. Then run `./filename` for
-Linux/Unix or `.\filename.exe` on Windows.
+Run `go build ./foldername/filename` where foldername is the course and filename is the exercize you
+want to run. Then run `./filename` for Linux/Unix or `.\filename.exe` on Windows.
 
 ## Contributing
 
