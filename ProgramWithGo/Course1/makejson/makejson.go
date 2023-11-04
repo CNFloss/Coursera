@@ -27,7 +27,7 @@ func verify(str string, err error) {
 
 func main() {
 	addrBook := make(map[string]string, 50)
-	fmt.Println("Enter the ! symbol to close")
+	fmt.Println("Enter the x symbol to close")
 	fmt.Println("Enter a name then a address to cache")
 	fmt.Println("Max capacity is 50 of each pair")
 
