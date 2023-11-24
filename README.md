@@ -22,5 +22,4 @@ the latter can be anything like fixing typos or any organization or presentation
 ## A Note for Some
 
 If you are taking this course and are thinking of submitting something you didn't write I would
-honestly discourage it. First because that is not the intended purpose of this repository and second
-you will only suffer from it.
+honestly discourage it. First because that is not the intended purpose of this repository and second you won't gain any of the true benefits and most likely only suffer from it.
